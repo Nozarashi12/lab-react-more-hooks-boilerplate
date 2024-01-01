@@ -1,0 +1,10 @@
+body{
+  text-align: center;
+  justify-content: center;
+}
+.list{
+  color:red;
+}
+.last{
+  /* color: aqua; */
+}
